@@ -1,7 +1,6 @@
 ---
 - name: Install
   hosts: cloudtest
-  remote_user: vagrant
   sudo: yes
 
   tasks:
