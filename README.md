@@ -45,4 +45,8 @@ which python
 
 will point to /Users/youruser/.virtualenvs/ansible/bin/python
 
+```
+pip install ansible
+```
+
 
