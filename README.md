@@ -49,4 +49,12 @@ will point to /Users/youruser/.virtualenvs/ansible/bin/python
 pip install ansible
 ```
 
+#Run instructions
+
+to run these playbook, simply do:
+
+```
+ansible-playbook -i inventory install.yml
+```
+
 
